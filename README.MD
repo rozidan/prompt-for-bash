@@ -151,7 +151,7 @@ You can use the '~/.bashrc' file in order to set them presently.
 
 ![colors.PNG](colors.PNG)
 
-## throbleshuting
+## Troubleshooting
 In case you have a missing fonts, you can install the 'Meslo Slashed powerline font' from here: [https://github.com/powerline/fonts]() 
 
 ## Uninstalling
