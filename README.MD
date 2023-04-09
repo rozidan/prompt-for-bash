@@ -9,6 +9,8 @@ developers.
 
 The developer can configure the prompt with colors and sets of useful information such as:
 
+![prompt1.PNG](prompt1.PNG)
+
 * user and host name
 * current time
 * last exit code
@@ -151,5 +153,5 @@ You can use the '~/.bashrc' file in order to set them presently.
 
 ## Uninstalling
 
-Remove the 'source ~/.prompt-for-bash' line from the '~/.bashrc' file.
-Remove the '~/.prompt-for-bash' file.
+1. Remove the "source ~/.prompt-for-bash" line from the '~/.bashrc' file.
+2. Remove the "~/.prompt-for-bash" file.
