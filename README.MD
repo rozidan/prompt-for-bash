@@ -154,6 +154,14 @@ You can use the '~/.bashrc' file in order to set them presently.
 ## Troubleshooting
 In case you have a missing fonts, you can install the 'Meslo Slashed powerline font' from here: [https://github.com/powerline/fonts]() 
 
+```bash
+$ mkdir -p $HOME/.local/share/fonts
+$ curl https://raw.githubusercontent.com/powerline/fonts/master/Meslo%20Slashed/Meslo%20LG%20L%20Regular%20for%20Powerline.ttf -o $HOME/.local/share/fonts/Meslo_LG_L_Regular_for_Powerline.ttf
+$ fc-cache $HOME/.local/share/fonts
+```
+
+and restart your terminal
+
 ## Uninstalling
 
 1. Remove the "source ~/.prompt-for-bash" line from the '~/.bashrc' file.
