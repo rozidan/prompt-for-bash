@@ -155,3 +155,6 @@ You can use the '~/.bashrc' file in order to set them presently.
 
 1. Remove the "source ~/.prompt-for-bash" line from the '~/.bashrc' file.
 2. Remove the "~/.prompt-for-bash" file.
+
+## Links
+Script code inspired by [https://github.com/ohmybash/oh-my-bash]()
